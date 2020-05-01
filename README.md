@@ -11,7 +11,7 @@ delete database
 
 # How to use
 Download file ProjectJava.jar
-Download and Install mysql and xampp 
+"Download and Install mysql and xampp" 
 open xampp and connect to online database 
 open  ProjectJava.jar and login (ID admin password 1234)
 click registor for registor database or click delete for delete database
